@@ -21,6 +21,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
